@@ -2,7 +2,7 @@
 
 Crawling of news website to get latest news headlines.
 
-Istallation:
+Installation:
 pip install bs4 // beautiful soup 4
 
 software dependency:
